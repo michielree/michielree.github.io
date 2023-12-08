@@ -3,4 +3,4 @@ I am a machine learning engineer (or "digital methodologist"[^1]) with the Cente
 
 Interested in collaborating? Feel free to contact me at `michiel.van.der.ree[at]rug.nl`.
 
-[^1]: https://www.esciencecenter.nl/news/the-people-who-build-software-in-the-land-of-dataspeak/
+[^1]: [https://www.esciencecenter.nl/news/the-people-who-build-software-in-the-land-of-dataspeak](https://www.esciencecenter.nl/news/the-people-who-build-software-in-the-land-of-dataspeak)
